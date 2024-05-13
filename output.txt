@@ -1,0 +1,42 @@
+Test 1 (Nothing) : OK
+Test 2 (history) : OK
+Test 3 (Exec two command) : OK
+Test 4 (Testing with /usr/bin PATH) : OK
+Test 5 (Testing with /bin PATH) : OK
+Test 6 (run commands) : OK
+Test 7 (setenv and unsetenv) : OK
+Test 8 (builtin cd) : OK
+Test 9 (many tab and space) : OK
+Test 10 (Launch DivZero program with core dump) : OK
+Test 12 (Launch SegFault program with core dump) : OK
+Test 13 (Testing simple pipe) : OK
+Test 14 (Redirection with output to file) : OK
+Test 15 (Redirection left with input from file) : OK
+Test 16 (double Redirection right with input from file) : OK
+Test 18 (Quoting and escaping) : OK
+Test 19 (Test &&) : OK
+Test 20 (Test && failed) : OK
+Test 21 (Test && with pipe) : OK
+Test 22 (Test && with pipe that fail) : OK
+Test 23 (Test && with multiple pipes) : OK
+Test 24 (Test && with multiple pipes that failed) : OK
+Test 25 (Test && with redirection right) : OK
+Test 26 (Test && with double redirection right) : OK
+Test 27 (Test && with pipe and redirection right) : OK
+Test 28 (Test && with multiple pipe and redirection right) : OK
+Test 29 (Test ||) : OK
+Test 30 (Test || failed) : OK
+Test 31 (Test || with pipe) : OK
+Test 32 (Test || with pipe that fail) : OK
+Test 33 (Test || with multiple pipes) : OK
+Test 34 (Test || with multiple pipes that failed) : OK
+Test 35 (Test || with redirection right) : OK
+Test 36 (Test || with double redirection right) : OK
+Test 37 (Test || with pipe and redirection right) : OK
+Test 38 (Test || with multiple pipe and redirection right) : OK
+Test 39 (Test || and && and with multiple pipe and redirection right) : OK
+Test 40 (Test alias) : OK
+Test 41 (Test alias with &&) : OK
+Test 42 (Test alias with && failed) : OK
+Test 43 (Test alias with || failed) : OK
+Test 44 (A pipe with a builtin ?) : OK
